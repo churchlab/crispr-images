@@ -1,4 +1,4 @@
-# crispr-write
+# crispr-images
 Code for Shipman SL, Nivala J, Macklis JD, Church GM. (2017). **CRISPR-Cas encoding of a digital movie into the genomes of a population of living bacteria**. *Nature*.
 
 *These Python scripts generate nucleotide sequences in a protospacer format for encoding images into live cells using CRISPR adaptation, analyze the spacer content of bacteria to identify newly acquired spacers, and reconstruct images that have been encoded in newly acquired spacers.*
